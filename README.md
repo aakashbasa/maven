@@ -1,2 +1,2 @@
 # maven
-hi
+hello world
